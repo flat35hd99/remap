@@ -20,7 +20,7 @@
     "immer": "^8.0.0",
     "intel-hex": "^0.1.2",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.32",
+    "moment-timezone": "^0.5.35",
     "notistack": "^2.0.3",
     "pdf-lib": "^1.16.0",
     "prop-types": "^15.7.2",
